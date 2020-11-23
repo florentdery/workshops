@@ -81,5 +81,5 @@ Here is the repository of Geek's lunch organization, where students from Univers
   - An R script that is a guide to mixed models, proper way to look for random intercept, bootstrapped confidence intervals 
   - A .zip with data from Dryad
 
-# No. 9 - How to keep-up with the litterature? - by E. Champagne. 
+## No. 9 - How to keep-up with the litterature? - by E. Champagne. 
 ### A page of notes (to come) to follow what has been said during the discussion
