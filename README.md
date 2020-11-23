@@ -72,7 +72,14 @@ Here is the repository of Geek's lunch organization, where students from Univers
 ### See the PDF presentation
 
 ## No.7 - Introduction to Integrated Population Models (IPM) <code>R</code> using R and Winbugs - by B. Vuillaume
-### The file contains 
+### The folder contains 
   - A PDF presentation
-  - An R script
-  - Introduction to winbugs (A PDF)
+  
+## No.8 - Random intercepts and interpretation using <code>R</code> and <code>lme4</code>   - by M. Le Moullec
+### The folder contains 
+  - A .txt file
+  - An R script that is a guide to mixed models, proper way to look for random intercept, bootstrapped confidence intervals 
+  - A .zip with data from Dryad
+
+# No. 9 - How to keep-up with the litterature? - by E. Champagne. 
+### A page of notes (to come) to follow what has been said during the discussion
